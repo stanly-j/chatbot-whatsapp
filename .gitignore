@@ -1,3 +1,5 @@
 base-baileys-memory/node_modules
-
-/node_modules
+base-baileys-memory/.env
+base-baileys-memory/dist
+base-baileys-memory/tmp/*
+base-baileys-memory/!tmp/.gitkeep
